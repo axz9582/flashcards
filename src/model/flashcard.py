@@ -1,0 +1,3 @@
+
+class flashcard:
+    pass
