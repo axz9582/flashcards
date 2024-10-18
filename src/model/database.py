@@ -1,4 +1,4 @@
 import sqlite3
 
-class database:
+class FlashcardDatabase:
     pass

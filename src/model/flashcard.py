@@ -1,3 +1,3 @@
 
-class flashcard:
+class Flashcard:
     pass

@@ -1,4 +1,4 @@
 
-class app:
+class App:
     #init structure
     pass
